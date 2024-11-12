@@ -47,7 +47,7 @@ const HomePage = () => {
         <img src="img/Container.png" alt="hero section img" className='600px:rounded-xl 1000px:p-2 1000px:rounded-2xl' />
       </div>
      </div>
-     <div className="absolute top-[40%] left-[50%] 1000px:left-[10%]  1000px:top-96 600px:top-72 600px:left-10">
+     <div className="absolute top-[40%] left-[50%] 1000px:left-[10%]  1000px:top-80">
       <img src="img/sub-container.png" alt="img" />
      </div>
     </div>
