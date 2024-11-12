@@ -7,7 +7,7 @@ const HomePage = () => {
     {/* parent */}
      <div className="flex bg-black-light 1000px:flex-col-reverse font-urbanist">
      {/* left hero section */}
-      <div className="flex flex-col gap-8  bg-black-dark p-[72px] mb-2">
+      <div className="flex flex-col gap-8  bg-black-dark p-[72px] mb-2 600px:p-5">
         <div className="text-white text-5xl leading-tight 600px:text-4xl">
           <h1>Discover Your Dream Property with Estatein</h1>
         </div>
