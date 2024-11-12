@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Explore = () => {
   return (
     <>
-        <div className=" border-t border-b border-black-light mt-14 font-urbanist">
+        <div className=" border-t border-b border-black-light mt-14 font-urbanist 600px:p-5">
             <div className="max-w-[91%] m-auto flex justify-between items-center py-12 700px:flex-col 700px:max-w-[100%]">
                 <div className="flex flex-col gap-4 max-w-[70%] 700px:max-w-[95%] 700px:mb-8">
                     <h1 className='text-white text-4xl 600px:text-3xl 600px:mb-5 '> Start Your Real Estate Journey Today</h1>
