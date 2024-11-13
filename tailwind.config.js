@@ -34,6 +34,12 @@ urbanist : ' "Urbanist", sans-serif;'
       '700px': {'max': '700px'}, // Custom breakpoint for max 700px
       '800px': {'max': '800px'}, // Custom breakpoint for max 800px
       '1000px': {'max': '1000px'}, // Custom breakpoint for max 800px
+      'sm':{'min':'640px'} ,
+      'md':{'min':'768px'} ,
+      'lg':{'min':'1024px'} ,
+      'xl':{'min':'1280px'} ,
+      '2xl':{'min':'1536px'} ,
+      
      
     },
   },
