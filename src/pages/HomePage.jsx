@@ -1,5 +1,6 @@
 import React from 'react'
 import TopBar from '../components/TopBar'
+import HeroCards from '../components/HeroCards'
 
 const HomePage = () => {
   return (
@@ -50,6 +51,7 @@ const HomePage = () => {
      <div className="absolute top-[40%] left-[50%] 1000px:left-[10%]  1000px:top-80">
       <img src="img/sub-container.png" alt="img" />
      </div>
+     <HeroCards/>
     </div>
   )
 }
